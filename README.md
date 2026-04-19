@@ -34,7 +34,7 @@ This project adapts **SetVAE (CVPR 2021)** to 3D dental geometry, training a **h
 
 ## 🧠 Attention = Tooth Discovery
 
-![Attention Clusters](attention_clusters.png)
+![Attention Clusters](attention_cluster.png)
 
 * Each color = one attention cluster
 * Clusters align with **individual teeth regions**
