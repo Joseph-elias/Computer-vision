@@ -6,7 +6,7 @@ This project adapts **SetVAE (CVPR 2021)** to 3D dental geometry, training a **h
 
 > **Goal:** Can a generative model *discover individual teeth* purely from geometry — without supervision?
 
----
+--- 
 
 ## 🧠 Key Idea
 
