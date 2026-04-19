@@ -106,6 +106,8 @@ Attention clusters vs ground-truth tooth instances:
 * Fixed-size point sets
 * Vertex sampling (not surface-uniform)
 * Attention ≠ explicit segmentation
+* Experiments conducted in Google Colab with limited compute resources
+* Training duration and model scale constrained by free-tier hardware (GPU/memory limits)
 
 ---
 
